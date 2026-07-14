@@ -1,0 +1,5 @@
+# Pelikan personal - DIRECT
+DOMAIN-KEYWORD,pumch
+IP-CIDR,10.168.203.195/32,no-resolve
+IP-CIDR,10.168.203.190/32,no-resolve
+DOMAIN-SUFFIX,speedtest.net
