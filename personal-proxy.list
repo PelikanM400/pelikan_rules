@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,reederapp.com
 DOMAIN-SUFFIX,cuhk.edu.hk
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,codex
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
