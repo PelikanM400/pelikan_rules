@@ -1,26 +1,87 @@
 # Pelikan personal - PROXY
-DOMAIN-SUFFIX,urbtix.hk
-DOMAIN-SUFFIX,hkphil.org
-DOMAIN-KEYWORD,nianticspatial
-DOMAIN-KEYWORD,iitc
-DOMAIN-KEYWORD,ingress
-DOMAIN-KEYWORD,tailscale
-DOMAIN-SUFFIX,immortalwrt.org
-DOMAIN-SUFFIX,inoreader.com
-DOMAIN-SUFFIX,reederapp.com
-DOMAIN-SUFFIX,cuhk.edu.hk
-DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,codex
-DOMAIN-KEYWORD,chatgpt
+
+# AI / LLM
+DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,codex
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,poe.com
+
+# Authentication / Security
+DOMAIN-SUFFIX,arkose.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,auth0-extend.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,funcaptcha.com
+DOMAIN-SUFFIX,identrust.com
+
+# CDN / Cloud Infrastructure
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,algolianet.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,cdnjs.cloudflare.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareinsights.com
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,poe.com
+
+# Feature Flags / Telemetry / Monitoring
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
+DOMAIN-SUFFIX,datadoghq-browser-agent.com
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,events.launchdarkly.com
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,o4505736984592384.ingest.us.sentry.io
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+
+# Development / Network Tools
 DOMAIN-SUFFIX,exp.host
-DOMAIN-SUFFIX,antigravity.google
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-KEYWORD,tailscale
+
+# Realtime / Media
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,livekit.io
+
+# Payment / Customer Support
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+
+# RSS / Reading
+DOMAIN-SUFFIX,inoreader.com
+DOMAIN-SUFFIX,reederapp.com
+
+# Games / Mapping
+DOMAIN-KEYWORD,iitc
+DOMAIN-KEYWORD,ingress
+DOMAIN-KEYWORD,nianticspatial
+
+# Music / Ticketing
+DOMAIN-SUFFIX,hkphil.org
+DOMAIN-SUFFIX,urbtix.hk
+
+# Education
+DOMAIN-SUFFIX,cuhk.edu.hk
+
+# Creative / Design
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,unsplash.com
