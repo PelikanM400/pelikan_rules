@@ -1,23 +1,31 @@
 # Pelikan personal - DIRECT
+
+# Institutional / Internal Network
 DOMAIN-KEYWORD,pumch
 IP-CIDR,10.160.0.0/16,no-resolve
 IP-CIDR,10.160.18.90/32,no-resolve
-IP-CIDR,1.1.1.3/32,no-resolve
-IP-CIDR,10.168.203.195/32,no-resolve
 IP-CIDR,10.168.203.190/32,no-resolve
-DOMAIN-SUFFIX,speedtest.net
+IP-CIDR,10.168.203.195/32,no-resolve
+IP-CIDR,1.1.1.3/32,no-resolve
+
+# Academic / Medical Literature
+DOMAIN-SUFFIX,acpjournals.org
 DOMAIN-SUFFIX,bmj.com
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,embase.com
+DOMAIN-SUFFIX,jamanetwork.com
+DOMAIN-SUFFIX,litlink.cc
+DOMAIN-SUFFIX,lww.com
+DOMAIN-SUFFIX,nih.gov
+DOMAIN-SUFFIX,ovid.com
 DOMAIN-SUFFIX,uptodate.com
 DOMAIN-SUFFIX,wolterskluwer.com
-DOMAIN-SUFFIX,clarivate.com
-DOMAIN-SUFFIX,nih.gov
-DOMAIN-SUFFIX,lww.com
-DOMAIN-SUFFIX,jamanetwork.com
-DOMAIN-SUFFIX,acpjournals.org
-DOMAIN-SUFFIX,ovid.com
-DOMAIN-SUFFIX,embase.com
-DOMAIN-SUFFIX,elsevier.com
-DOMAIN-SUFFIX,litlink.cc
-DOMAIN-SUFFIX,cnki.net
-DOMAIN-SUFFIX,deepseek.com
+
+# AI / LLM
 DOMAIN-KEYWORD,deepseek
+DOMAIN-SUFFIX,deepseek.com
+
+# DNS / Network Testing
+DOMAIN-SUFFIX,speedtest.net
