@@ -30,3 +30,6 @@ DOMAIN-SUFFIX,deepseek.com
 
 # DNS / Network Testing
 DOMAIN-SUFFIX,speedtest.net
+
+# Personal website
+DOMAIN-SUFFIX,dasliedvondererde.cn
