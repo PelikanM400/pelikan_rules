@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareinsights.com
-DOMAIN-SUFFIX,oss-cn-beijing.aliyuncs.com
+# DOMAIN-SUFFIX,oss-cn-beijing.aliyuncs.com
 
 # Feature Flags / Telemetry / Monitoring
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
